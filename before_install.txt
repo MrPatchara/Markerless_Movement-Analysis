@@ -1,0 +1,16 @@
+Markerless Movement Analysis
+
+โปรแกรมวิเคราะห์การเคลื่อนไหว ใช้ร่วมกับอุปกรณ์แผ่นวัดแรง Podium BTS Bioengineering และระบบ Markerless Motion Capture
+
+ความต้องการของระบบ:
+- Windows 10 หรือใหม่กว่า
+- หน่วยความจำ RAM อย่างน้อย 4 GB แนะนำ 8 GB
+- พื้นที่ติดตั้งประมาณ 500 MB
+
+สิ่งที่โปรแกรมทำได้:
+- โหลดไฟล์ C3D จากระบบ Markerless Motion Capture
+- วิเคราะห์ Single Leg Squat: LS, PS, TS, MS
+- วิเคราะห์ Single Leg Hop: LS, PS, TS, MS, Shock Absorption (SA)
+- แสดงผล 2D/3D และวิดีโอ
+
+กด Next เพื่อติดตั้งต่อ

@@ -1,0 +1,11 @@
+# Biomechanics Analysis Program - Dependencies
+# Python >= 3.10 recommended
+
+# C3D: use c3d (pure Python) - ezc3d requires compilation, may fail on Python 3.14+
+c3d>=0.5.0            # C3D file read (pure Python)
+PySide6>=6.6.0        # Professional Qt6 GUI
+numpy>=1.24.0         # Numerical computing
+pyvista>=0.43.0       # 3D visualization
+pyvistaqt>=0.11.0     # PyVista + Qt integration
+scipy>=1.11.0         # Angle calculations, signal processing
+opencv-python>=4.8.0  # Video (.avi) loading
